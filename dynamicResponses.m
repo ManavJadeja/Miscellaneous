@@ -56,7 +56,7 @@ view(70, 30)
 % Labels
 title('2nd Order Linear Diff Eq Response with Varying Zeta')
 xlabel('\zeta')
-ylabel('\omega_{n}t')
+ylabel('time (s)')
 zlabel('x(t)')
 
 % Annotations
